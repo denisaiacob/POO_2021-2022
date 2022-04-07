@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Desktop\An 2 sem 2\OOP\Laborator 7\Problema 1\Problema 1\main.cpp(8,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Desktop\An 2 sem 2\OOP\Laborator 7\Problema 1\Problema 1\main.cpp(14,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problema 1.vcxproj -> E:\Desktop\An 2 sem 2\OOP\Laborator 7\Problema 1\Problema 1\x64\Debug\Problema 1.exe
